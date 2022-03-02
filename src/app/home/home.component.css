@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.welcome_img{
+    float: left;
+    width: 900px;
+    height:700px;
+    margin: 5%;
+
+}
+
+.welcome_description{
+    float: right;
+    width: 530px;
+    height:700px;
+    margin-right: 5%;
+
+}
+.img_doctors{
+    height: 700px;
+    font-family: 'Ubuntu', sans-serif;
+}   
+.title_des{
+    font-size: 70px;
+    margin-top: 35%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.paragraph_des{
+    margin-top: 5%;
+    font-size: 30px;
+
+}
+
+.redirect_phar{
+    border-radius: 5px;
+    width: 550px;
+    height: 50px;
+
+
+}
