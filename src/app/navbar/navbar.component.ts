@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-navbar',
@@ -11,5 +12,13 @@ export class NavbarComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
+  en_construccion(){
+    Swal.fire({
+      icon: 'info',
+      title: 'En Construcción',
+      text: 'Módulo se encuentra fuera de servicio'
+    })
+}
 
 }

@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 .welcome_img{
     float: left;
-    width: 900px;
+    width: 500px;
     height:700px;
     margin: 5%;
+    
 
 }
 
@@ -15,7 +16,7 @@
 
 }
 .img_doctors{
-    height: 700px;
+    width:800px;
     font-family: 'Ubuntu', sans-serif;
 }   
 .title_des{
