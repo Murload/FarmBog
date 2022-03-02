@@ -1,4 +1,8 @@
+.title{
+  text-align: center;
+
+}
 .card{
     width: 18rem;
-    margin: 10%;
+    margin: 7%;
 }
