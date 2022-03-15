@@ -1,0 +1,28 @@
+.contents-page {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    width: 40%;
+    border-radius: 30px;
+    background:    rgba(57, 164, 235, 0.349);
+    box-shadow: 20px 20px 60px #e2e1e1, -20px -20px 60px #ffffff;
+}
+.title_out{
+    margin-top: -10px;background-color: antiquewhite; padding: 15px; border-radius: 30px;
+
+}
+.contents-container {
+    height: 80vh;
+    
+}
+
+.contents-container input{
+
+    margin-top: 40px;
+
+}
+
+.contents-container button{
+
+    margin-top: 40px;
+
+}

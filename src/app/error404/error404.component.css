@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.containerError{
+    /* height: 150px; */
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(212, 124, 124, 0.774);
+
+}
+
+.containerimgError{
+    width: 100px;
+
+}
